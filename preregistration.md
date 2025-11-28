@@ -42,7 +42,7 @@ Twenty participants with normal or corrected-to-normal vision will complete the 
 
 - **Computer display**: Stimuli are presented on a standard computer screen
 - **Stimuli**: Black squares on a white background
-  - The size of the comparison squares was ggenerated from a uniform distribution
+  - The size of the comparison squares was generated from a uniform distribution
   - This range includes squares both smaller and larger than the reference
 
 ### Procedure
