@@ -42,7 +42,7 @@ Twenty participants with normal or corrected-to-normal vision will complete the 
 
 ### Materials
 
-- **Computer display**: Stimuli are presented on a standard computer screen
+- **Mobile phone display**: Stimuli are presented on a standard computer screen
 - **Stimuli**: Black squares on a white background
   - Reference square: 9.00 sq.mm (constant)
   - Comparison squares: 39 different sizes ranging from 8.00 to 15.00 sq.mm
