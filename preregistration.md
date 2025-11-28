@@ -42,9 +42,7 @@ Twenty participants with normal or corrected-to-normal vision will complete the 
 
 - **Computer display**: Stimuli are presented on a standard computer screen
 - **Stimuli**: Black squares on a white background
-  - Reference square: 9.00 sq.mm (constant)
-  - Comparison squares: 39 different sizes ranging from 8.00 to 15.00 sq.mm
-  - The size of the comparison squares from a uniform distribution is randomly generated
+  - The size of the comparison squares was generated from a uniform distribution
   - This range includes squares both smaller and larger than the reference
 
 ### Procedure
